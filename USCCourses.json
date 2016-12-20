@@ -1,0 +1,6 @@
+[ 
+    { "id" : "CSCI 103L", "name" : "Introduction to Programming", "units" : 4 },
+    { "id" : "CSCI 104L", "name" : "Data Structures and Object Oriented Design", "units" : 4},
+    { "id" : "CSCI 109", "name" : "Introduction to Computer Science", "units" : 2 },
+    { "id" : "CSCI 110", "name" : "Introduction to Digital Logic", "units" : 3 }
+]
